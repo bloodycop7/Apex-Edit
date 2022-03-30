@@ -1,0 +1,15 @@
+"Apex"
+{
+    "base"      	"sandboxrp"
+    "title"  		"apex"
+    "version"   	"1.2"
+    "menusystem"    "1"
+
+    "author_name"   "Me"
+    "author_email"  ""
+    "author_url"    "https://sites.google.com/view/axeniouscommunity/home/main-page"
+
+    "icon"  ""
+    "info"  ""
+    "hide"  "0"
+}
